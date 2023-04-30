@@ -2,7 +2,7 @@
 
 Used this dataset to train a GAN AI Model to generate faces. GAN models work by training two AI's, where one AI generated images, and one AI classify images,
 and they try to compete where the loss of the generative model is defined by the error of the classifying model. However the classifying model is
-trained as normal,
+trained as normal.
 
 An Example of several generated faces
 
